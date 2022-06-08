@@ -7,7 +7,7 @@
 
         <variable
             name="safeArgs"
-            type="com.yoenas.notesapp.presentation.detail.DetailFragmentArgs" />
+            type="com.yoenas.notesapp.presentation.detail.DetailFragment" />
 
         <variable
             name="mNotes"
